@@ -173,3 +173,7 @@ One thing that can be a bit annoying is that when you get a bit unlucky with the
 cards, it can happen that you have to change plans half way through game and
 that can have a negative impact on your score. Luckily the four end-of-round
 goals always give you something to work towards so that kind of mitigates that.
+
+I enjoy Wingspan every time I play it and I can highly recommend it to any one
+who is into light engine and tableau building games looking for a relaxing game
+that can be played in less than an hour.
