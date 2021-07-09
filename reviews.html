@@ -1,0 +1,40 @@
+---
+layout: page
+title: Reviews
+---
+<ul class="related-posts">
+    {% for post in site.categories.review %}
+        {% if post.title != null %}
+            <li>
+                <h3>
+                    <a href="{{ post.url | absolute_url }}">
+                        {{ post.title }}
+                        <small>{{ post.date | date_to_string }}</small>
+                    </a>
+                </h3>                
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
+
+{% comment %}
+{% assign post_list = site.categories.review | group_by_exp:"item", "item.date | date:'%Y'" %}
+{% for post_data in post_list %}
+    <h2>{{ post_data.name }}</h2>
+    <ul class="related-posts">
+    {% for post in post_data.items %}
+    {% if post.title != null %}
+    <li>
+        <h3>
+            <a href="{{ post.url | absolute_url }}">
+                <small>{{ post.date | date:"%B %d" }}</small>
+                {{ post.title }}
+            </a>
+        </h3>                
+    </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+{% endfor %}
+{% endcomment %}

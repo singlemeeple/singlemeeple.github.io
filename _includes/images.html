@@ -1,0 +1,22 @@
+<div class="post-images">
+    <figure>
+        <img src="{{ include.image_1 }}" alt="{{ include.caption_1 }}" />
+        <figcaption>{{ include.caption_1 }}</figcaption>
+    </figure>
+    <figure>
+        <img src="{{ include.image_2 }}" alt="{{ include.caption_2 }}" />
+        <figcaption>{{ include.caption_2 }}</figcaption>
+    </figure>
+    {% if include.image_3 %}
+        <figure>
+            <img src="{{ include.image_3 }}" alt="{{ include.caption_3 }}" />
+            <figcaption>{{ include.caption_3 }}</figcaption>
+        </figure>
+        {% if include.image_4 %}
+            <figure>
+                <img src="{{ include.image_4 }}" alt="{{ include.caption_4 }}" />
+                <figcaption>{{ include.caption_4 }}</figcaption>
+            </figure>
+        {% endif %}
+    {% endif %}
+</div>

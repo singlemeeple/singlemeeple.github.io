@@ -1,0 +1,25 @@
+# Setup
+title:               Single Meeple
+tagline:             "Board games from a solo gamer's perspective"
+description:         "Hi! I talk about board games from a solo gamer's perspective."
+url:                 https://singlemeeple.github.io
+baseurl:             ''
+paginate:            5
+permalink:           /:year/:month/:day/:title/
+timezone:            Europe/Brussels
+excerpt_separator:   "<!--more-->"
+exclude:             ["docker-compose.yml", ".gitignore"]
+
+# About/contact
+author:
+  name:              Single Meeple
+  url:               https://instagram.com/singlemeeple/
+  email:             info@singlemeeple.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
