@@ -2,7 +2,7 @@
 title:               Single Meeple
 tagline:             "Board games from a solo gamer's perspective"
 description:         "Hi! I talk about board games from a solo gamer's perspective."
-url:                 https://singlemeeple.github.io
+url:                 https://www.singlemeeple.com
 baseurl:             ''
 paginate:            5
 permalink:           /:year/:month/:day/:title/
