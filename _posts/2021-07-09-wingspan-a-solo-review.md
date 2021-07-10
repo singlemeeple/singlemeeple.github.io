@@ -2,6 +2,8 @@
 layout: post
 title: Wingspan - A Solo Review
 category: review
+instagram: https://www.instagram.com/p/CRIv2GhrIEG/
+score: 8
 ---
 
 ![Wingspan - A Solo Review](/public/images/reviews/wingspan/wingspan.png)
@@ -9,7 +11,7 @@ category: review
 Birds. That sounds like a very niche theme for a board game. Only a handful of
 people would be into that, right? Wrong! Wingspan is ranked as the 20th best game 
 on Board Game Geek and has conquered the hearts of many, many board games since
-its release in 2019.
+its release in 2019. What's up with that?
 
 <!--more-->
 

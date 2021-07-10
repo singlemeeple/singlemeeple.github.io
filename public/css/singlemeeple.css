@@ -1,0 +1,67 @@
+.masthead {
+  background-color: #fafafa;
+}
+
+h3.scoring small {
+  font-size: 75%;
+  color: #999;
+}
+
+.comments {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid #eee;
+}
+
+div.post-images {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  div.post-images figure, div.post-image figure {
+      margin: 0 0 1em;
+  }
+  
+  div.post-images figure {
+      display: block;
+      max-width: 355px;
+  }
+  
+  div.post-images figure {
+    display: inline;
+    max-width: 720px;
+  }
+  
+  div.post-images figure:nth-child(odd) {
+    margin-right: 10px;
+  }
+  
+  div.post-images figure img, div.post-image figure img {
+    margin: 0;
+    display: inline;
+  }
+  
+  div.post-images figure figcaption, div.post-image figure figcaption {
+    text-align: center;
+    color: #aaa;
+    font-style: italic;
+    font-size: 75%;
+  }
+
+  /* Single meeple */
+.theme-base-singlemeeple .sidebar,
+.theme-base-singlemeeple .sidebar-toggle:active,
+.theme-base-singlemeeple #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #C4863B;
+}
+.theme-base-singlemeeple .container a,
+.theme-base-singlemeeple .sidebar-toggle,
+.theme-base-singlemeeple .related-posts li a:hover {
+  color: #C4863B;
+}
+
+.theme-base-singlemeeple h3.masthead-title img {
+  vertical-align: bottom;
+  display: inline;
+  margin: 0;
+}

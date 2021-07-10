@@ -6,7 +6,43 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
+
+{% if page.score %}
+  <h2>Score</h2>
+  <p>
+    To make things easier for myself, I use the same scoring categories Board
+    Game Geek uses.
+  </p>
+  <p>
+    <h3 class="scoring">
+      <span class="score">{{ page.score }}</span>/10
+      <small>
+        {% if page.score == 1 %}Awful - defies game description.{% endif %}
+        {% if page.score == 2 %}Very bad - won’t play ever again.{% endif %}
+        {% if page.score == 3 %}Bad - likely won’t play this again.{% endif %}
+        {% if page.score == 4 %}Not so good - but could play again.{% endif %}
+        {% if page.score == 5 %}Mediocre - take it or leave it.{% endif %}
+        {% if page.score == 6 %}Ok - will play if in the mood.{% endif %}
+        {% if page.score == 7 %}Good - usually willing to play.{% endif %}
+        {% if page.score == 8 %}Very good - enjoy playing and would suggest it.{% endif %}
+        {% if page.score == 9 %}Excellent - very much enjoy playing.{% endif %}
+        {% if page.score == 10 %}Outstanding - will always enjoy playing.{% endif %}
+      </small>
+    </h3>
+  </p>
 </div>
+{% endif %}
+
+{% if page.instagram %}
+<div class="comments">
+  <h2>Comments</h2>
+  <p>
+    I'm sorry, I don't support comments on my website. If you want to discuss
+    the game or my review, feel free comment on
+    <a href="{{ page.instagram }}" target="_blank" title="{{ page.title }} on Instagram">this dedicated Instagram post</a>.
+  </p>
+</div>
+{% endif %}
 
 {% if site.related_posts.size >= 1 %}
 <div class="related">
