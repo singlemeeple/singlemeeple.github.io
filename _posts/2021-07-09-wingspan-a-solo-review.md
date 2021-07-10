@@ -127,7 +127,7 @@ up the difficulty.
 Ok, first of all, the quality of the components is top notch. From what I've
 heard this is typical for Stonemaier games.
 
-The cards have a nice linnen finish. I have not sleeved the cards of this game
+The cards have a nice linen finish. I have not sleeved the cards of this game
 because honestly, they really feel like they don't need it. Besides, you only
 need to shuffle most of them once at the start of the game so they won't have to
 suffer much abuse. You do need to shuffle the automa cards every turn, but after
