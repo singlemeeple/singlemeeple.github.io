@@ -147,7 +147,7 @@ a fair amount of information on the cards, they don't feel busy or crowded.
 According to the box, the game takes between 40 and 70 minutes. My first few
 games easily took over an hour, but once you get the hang of it I think it is
 safe to say you'll be able finish a game in less than an hour, including setup
-and tear down.
+and teardown.
 
 One thing I like about this game is how the setup and teardown is made a lot
 faster and easier by the different types of game trays that are included in the
