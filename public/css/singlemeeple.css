@@ -27,8 +27,7 @@ div.post-images {
       max-width: 355px;
   }
   
-  div.post-images figure {
-    display: inline;
+  div.post-image figure {
     max-width: 720px;
   }
   
