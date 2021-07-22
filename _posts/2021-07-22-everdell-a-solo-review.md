@@ -2,6 +2,7 @@
 layout: post
 title: Everdell - A Solo Review
 category: review
+instagram: https://www.instagram.com/p/CRocdGTLdDK/
 score: 7
 ---
 
