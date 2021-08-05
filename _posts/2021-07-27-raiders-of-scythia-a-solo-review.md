@@ -1,11 +1,17 @@
 ---
 layout: post
 title: Raiders of Scythia - A Solo Review
+description: "Look at those Cimmerians, Assyrians, Persians and Greeks with all their lands
+and their power and their wealth. Look at them underestimating the fierce and
+skilled warriors of Scythia. Once they hear the hoofbeats of your war horses and
+the shrieks of your trained eagles it will already be too late; they'll never
+know what hit them."
+thumbnail: /public/images/reviews/raidersofscythia/raidersofscythia-a-solo-review.png
 category: review
 score: 9
 ---
 
-![Raiders of Scythia - A Solo Review](/public/images/reviews/raidersofscythia/raidersofscythia.png)
+![Raiders of Scythia - A Solo Review]({{page.thumbnail}})
 
 Look at those Cimmerians, Assyrians, Persians and Greeks with all their lands
 and their power and their wealth. Look at them underestimating the fierce and

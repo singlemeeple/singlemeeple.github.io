@@ -1,0 +1,25 @@
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@singlemeeple">
+<meta name="twitter:creator" content="@singlemeeple">
+
+{% if page.title == "Home" %}
+  <meta name="twitter:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
+{% else %}
+  <meta name="twitter:title" content="{{ page.title }} &middot; {{ site.title }}" />
+{% endif %}
+
+{% if page.url and site.baseurl %}
+  <meta name="twitter:url" content="{{ page.url | absolute_url }}" />
+{% endif %}
+
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}" />
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}" />
+{% endif %}
+
+{% if page.thumbnail %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.thumbnail }}" />
+{% else %}
+  <meta name="twitter:image" content="{{ site.url }}/public/images/twitter.png" />
+{% endif %}

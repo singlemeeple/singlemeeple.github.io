@@ -1,12 +1,17 @@
 ---
 layout: post
 title: Everdell - A Solo Review
+description: "Long ago, adventurer Corrin Evertail discovered a charming valley and named it
+Everdell. Since then the place has been a thriving civilization of forest critters.
+The time has come to expand into new territories and establish new cities. Can you
+help the lovely creatures build a new place to live before the year is over?"
+thumbnail: /public/images/reviews/everdell/everdell-a-solo-review.png
 category: review
 instagram: https://www.instagram.com/p/CRocdGTLdDK/
 score: 7
 ---
 
-![Everdell - A Solo Review](/public/images/reviews/everdell/everdell.png)
+![Everdell - A Solo Review]({{page.thumbnail}})
 
 Long ago, adventurer Corrin Evertail discovered a charming valley and named it
 Everdell. Since then the place has been a thriving civilization of forest critters.
