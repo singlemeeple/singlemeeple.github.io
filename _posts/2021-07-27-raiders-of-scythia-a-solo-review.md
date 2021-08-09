@@ -8,6 +8,7 @@ the shrieks of your trained eagles it will already be too late; they'll never
 know what hit them."
 thumbnail: /public/images/reviews/raidersofscythia/raidersofscythia-a-solo-review.png
 category: review
+instagram: https://www.instagram.com/p/CR3BFOcLdzC/
 score: 9
 ---
 
