@@ -4,7 +4,7 @@ title: Hadrian's Wall - A Solo Review
 description: "You're one of the Roman generals tasked with overseeing the construction of part of Hadrian's famous wall and the accompanying milecastle. Will you make emperor Hadrian proud, or will the Picts make fun of your effort?"
 thumbnail: /public/images/reviews/hadrianswall/hadrians-wall-a-solo-review.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/CS_ZeRbscGP/
 score: 8
 ---
 
