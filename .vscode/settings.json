@@ -3,5 +3,10 @@
         "editor.wordWrap": "wordWrapColumn",
         "editor.quickSuggestions": false,
         "editor.wordWrapColumn": 80,
-    }
+    },
+    "workbench.tree.indent": 24,
+    "editor.rulers": [
+        80,
+        120
+    ],
 }
