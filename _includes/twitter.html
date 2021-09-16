@@ -18,7 +18,9 @@
   <meta name="twitter:description" content="{{ site.description }}" />
 {% endif %}
 
-{% if page.thumbnail %}
+{% if page.social_image %}
+  <meta name="twitter:image" content="{{ site.url }}{{ page.social_image }}" />
+{% elsif page.thumbnail %}
   <meta name="twitter:image" content="{{ site.url }}{{ page.thumbnail }}" />
 {% else %}
   <meta name="twitter:image" content="{{ site.url }}/public/images/twitter.png" />

@@ -13,7 +13,9 @@
 {% if page.url and site.baseurl %}
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
 {% endif %}
-{% if page.thumbnail %}
+{% if page.social_image %}
+  <meta property="og:image" content="{{ site.url }}{{ page.social_image }}" />
+{% elsif page.thumbnail %}
   <meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}" />
 {% else %}
   <meta property="og:image" content="{{ site.url }}/public/images/facebook.png" />
