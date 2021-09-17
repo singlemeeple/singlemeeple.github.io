@@ -5,7 +5,7 @@ description: "Somewhere in the 25th century we started looking at Mars as an esc
 thumbnail: /public/images/reviews/terraformingmars/terraforming-mars-a-solo-review.jpg
 social_image: /public/images/reviews/terraformingmars/social.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/CT5GJJqsWlj/
 score: 5
 ---
 
