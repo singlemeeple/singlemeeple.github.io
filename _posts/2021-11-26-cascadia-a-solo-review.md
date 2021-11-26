@@ -60,7 +60,7 @@ The wooded animal tokens have the animal type printed on them, no stickers here.
 
 The cards are nice and big (tarot sized I think) and have a linen finish just like the cardboard tiles and tokens.
 
-{% include images.html image_1="/public/images/reviews/cascadia/close-up.jpg" caption_1="The habitat tiles and animal tokens look great together." image_2="/public/images/reviews/cascadia/scoring-cards.jpg" caption_1="Some more examples of scoring cards." %}
+{% include images.html image_1="/public/images/reviews/cascadia/close-up.jpg" caption_1="The habitat tiles and animal tokens look great together." image_2="/public/images/reviews/cascadia/scoring-cards.jpg" caption_2="Some more examples of scoring cards." %}
 
 ## How much time does it take?
 Depending on how much time you take to think about your drafting and placement options, I would say this game can be played in about 30 to 45 minutes, including setup and teardown.
