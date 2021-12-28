@@ -5,7 +5,7 @@ description: "Cascadia is another name for the Pacific Northwest, a diverse geog
 thumbnail: /public/images/reviews/cascadia/cascadia-a-solo-review.jpg
 social_image: /public/images/reviews/cascadia/social.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/CWvpyDAMYgj/
 score: 7
 ---
 
