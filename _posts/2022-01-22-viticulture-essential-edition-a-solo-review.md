@@ -5,7 +5,7 @@ description: "You have inherited a vineyard in Tuscany. While packing your bags 
 thumbnail: /public/images/reviews/viticulture/viticulture-essential-edition-a-solo-review.jpg
 social_image: /public/images/reviews/viticulture/social.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/CZCdxb8sHeT/
 score: 7
 ---
 
