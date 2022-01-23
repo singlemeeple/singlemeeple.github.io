@@ -124,6 +124,8 @@ All in all, I think I can play a game, including setup and teardown, in a bit ov
 ## What is my verdict?
 On the one hand, the art style and the theme of the game, together with how different steps of making wine are divided into the different actions, make this a very relaxing game. On the other hand, the tightness and blocking automa can make it tense and really hard to win. I've lost so many times that I've been considering of removing the AI's score marker and just treating this as a beat your own score game.
 
-One thing I don't really like is that, even though it is a game about making wine, you can't really win just by focusing on making wine. If you want to get those 20 points in seven rounds, you'll need some luck to get the right visitor cards come your way. Or maybe I'm just not good enough in the game, that's also very possible.
+What I really appreciate is how easy and smooth the AI is. Just flip a card and place a few workers. You can really focus on your own game. Given how easy it is to operate it is remarkable how it feels like a worthy opponent. It can really makes things hard for you.
+
+One thing I don't really like —or at least have mixed feelings about— is that, even though it is a game about making wine, you can't really win just by focusing on making wine. If you want to get those 20 points in seven rounds, you'll need some luck to get the right visitor cards come your way. Or maybe I'm just not good enough in the game, that's also very possible.
 
 Viticulture is game I enjoy playing, but I have to be in the right mood for it.
