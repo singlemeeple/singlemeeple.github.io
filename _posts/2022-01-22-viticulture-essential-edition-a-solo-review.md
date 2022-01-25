@@ -122,10 +122,12 @@ The game itself probably depends on how susceptible to analysis paralysis you ar
 All in all, I think I can play a game, including setup and teardown, in a bit over an hour.
 
 ## What is my verdict?
-On the one hand, the art style and the theme of the game, together with how different steps of making wine are divided into the different actions, make this a very relaxing game. On the other hand, the tightness and blocking automa can make it tense and really hard to win. I've lost so many times that I've been considering of removing the AI's score marker and just treating this as a beat your own score game.
+On the one hand, the art style and the theme of the game, together with how different steps of making wine are divided into the different actions, make this a very relaxing game. On the other hand, the tightness and blocking automa can make it tense and really hard to win. 
 
-What I really appreciate is how easy and smooth the AI is. Just flip a card and place a few workers. You can really focus on your own game. Given how easy it is to operate it is remarkable how it feels like a worthy opponent. It can really makes things hard for you.
+What I really appreciate is how easy and smooth the AI is. Just flip a card and place a few workers. You can really focus on your own game. Given how easy it is to operate, it is remarkable how it feels like a worthy opponent. It can really makes things hard for you.
 
-One thing I don't really like —or at least have mixed feelings about— is that, even though it is a game about making wine, you can't really win just by focusing on making wine. If you want to get those 20 points in seven rounds, you'll need some luck to get the right visitor cards come your way. Or maybe I'm just not good enough in the game, that's also very possible.
+Another thing that is very cleverly done is the Grande worker. This really adds an interesting element of planning and tactics to the game. Especially if you combine it with the 7 glass tokens you can collect to execute bonus actions. I also like how tight money can be in this game. You'll never have enough money to build all buildings or hire all possible extra workers, so you have to make choices. The combination of these choices, the Grande worker, the bonus token and the money, make things very interesting and allows you to pursue different strategies.
 
-Viticulture is game I enjoy playing, but I have to be in the right mood for it.
+One thing I don’t really like —or at least have mixed feelings about— is that, even though it is a game about making wine, you can’t really win just by focusing on making wine. If you want to get those 20 points in seven rounds, you’ll need some luck to get the right visitor cards come your way. Or maybe I’m just not good enough in the game, that’s also very possible. I’ve lost so many times that I’ve been considering of removing the AI’s score marker and just treating this as a beat your own score game.
+
+That last point might feel more negative than it is. In the end, Viticulture is game I enjoy playing, but I have to be in the right mood for it.
