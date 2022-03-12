@@ -5,7 +5,7 @@ description: "Imagine a future where humans and dinosaurs can live side by side.
 thumbnail: /public/images/reviews/tiny-epic-dinosaurs/tiny-epic-dinosaurs-a-solo-review.jpg
 social_image: /public/images/reviews/tiny-epic-dinosaurs/social.jpg
 category: review
-instagram: 
+instagram: https://www.instagram.com/p/CbADhH6MwdA/
 score: 6
 ---
 
