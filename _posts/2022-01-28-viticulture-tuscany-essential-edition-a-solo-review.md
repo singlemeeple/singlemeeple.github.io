@@ -5,7 +5,7 @@ description: "Over the years you've expanded your vineyard as much as possible. 
 thumbnail: /public/images/reviews/tuscany/tuscany-essential-edition-a-solo-review.jpg
 social_image: /public/images/reviews/tuscany/social.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/CZSJKuYrQB8/
 score: 8
 ---
 
