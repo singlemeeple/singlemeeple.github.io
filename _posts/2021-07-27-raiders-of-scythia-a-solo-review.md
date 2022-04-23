@@ -6,7 +6,7 @@ and their power and their wealth. Look at them underestimating the fierce and
 skilled warriors of Scythia. Once they hear the hoofbeats of your war horses and
 the shrieks of your trained eagles it will already be too late; they'll never
 know what hit them."
-thumbnail: /public/images/reviews/raidersofscythia/raidersofscythia-a-solo-review.png
+thumbnail: /public/images/reviews/raidersofscythia/raidersofscythia-a-solo-review.jpg
 category: review
 instagram: https://www.instagram.com/p/CR3BFOcLdzC/
 score: 9
