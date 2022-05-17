@@ -5,7 +5,7 @@ description: "After running your vineyard for a few years you're starting to mak
 thumbnail: /public/images/reviews/viticulture-visit-from-the-rhine-valley/viticulture-visit-from-the-rhine-valley-a-solo-review.jpg
 social_image: /public/images/reviews/viticulture-visit-from-the-rhine-valley/social.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/Cc0gizksStt/
 score: 8
 ---
 

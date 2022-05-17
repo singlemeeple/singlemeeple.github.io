@@ -5,7 +5,7 @@ description: "The people are starting to lose faith in the king ever since his a
 thumbnail: /public/images/reviews/viscounts-of-the-west-kingdom/viscounts-of-the-west-kingdom-a-solo-review.jpg
 social_image: /public/images/reviews/viscounts-of-the-west-kingdom/social.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/CdpcQiFMbfd/
 score: 9
 ---
 
