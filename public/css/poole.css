@@ -284,6 +284,10 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+.message strong {
+  color: #616161;
+}
+
 
 /*
  * Container
