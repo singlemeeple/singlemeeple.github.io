@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tiny Epic Dungeons - A Solo Review
+title: Tiny Epic Dungeons
 description: "Just as you want to take a first sip of your ale, a man stumbles into the inn, panic in his eyes. 'The g-g-goblins,' he stutters, 'they're c-c-coming closer!'. Not really a surprise, this region is called The Goblin's Coast after all, but you have to agree the creatures have been coming closer to the village than ever before. You sigh, push back your ale and grab your axe. 'Enough of this... I'll go settle it once and for all,' you say while tossing a coin to the barkeep. As the doors close behind you, you hear someone mumble 'Isn't that what the last one said as well?'"
 thumbnail: /public/images/reviews/tiny-epic-dungeons/tiny-epic-dungeons-a-solo-review.jpg
 social_image: /public/images/reviews/tiny-epic-dungeons/social.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cascadia - A Solo Review
+title: Cascadia
 description: "Cascadia is another name for the Pacific Northwest, a diverse geographic region in western North America. It is known for its vast mountain ranges, its dry plateaus, its lush forests and its fjords, bays and islands. These ecoregions form the habitats of a wide range of beautiful animals. Are you able to recreate an accurate representation of the region and populate it with wildlife?"
 thumbnail: /public/images/reviews/cascadia/cascadia-a-solo-review.jpg
 social_image: /public/images/reviews/cascadia/social.jpg

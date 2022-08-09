@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raiders of Scythia - A Solo Review
+title: Raiders of Scythia
 description: "Look at those Cimmerians, Assyrians, Persians and Greeks with all their lands
 and their power and their wealth. Look at them underestimating the fierce and
 skilled warriors of Scythia. Once they hear the hoofbeats of your war horses and

@@ -1,10 +1,36 @@
 ---
 layout: page
-title: Reviews
+title: My solo board game reviews
 description: "An overview of all my solo board game reviews."
 ---
+<p>
+    Here you can find an overview of all the solo board game reviews I have done so far.
+</p>
+<p class="message">
+    If you want me to do an honest in depth solo review of one of your games, you can always contact me via
+    <a href="https://www.instagram.com/singlemeeple/">Instagram</a> or send me an email at info@singlemeeple.com.
+</p>
+
+<h2>Latest solo reviews</h2>
 <ul class="related-posts">
-    {% for post in site.categories.review %}
+    {% for post in site.categories.review limit:3 %}
+        {% if post.title != null %}
+            <li>
+                <h3>
+                    <a href="{{ post.url | absolute_url }}">
+                        {{ post.title }}
+                        <small>{{ post.date | date_to_string }}</small>
+                    </a>
+                </h3>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
+<h2>All solo reviews, alphabetically</h2>
+<ul class="related-posts">
+    {% assign sortedPosts = site.categories.review | sort: 'title' %}
+    {% for post in sortedPosts %}
         {% if post.title != null %}
             <li>
                 <h3>

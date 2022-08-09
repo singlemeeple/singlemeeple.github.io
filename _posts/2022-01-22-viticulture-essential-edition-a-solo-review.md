@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viticulture Essential Edition - A Solo Review
+title: Viticulture Essential Edition
 description: "You have inherited a vineyard in Tuscany. While packing your bags you're already dreaming of sitting between your grapes, enjoying your own wine, the sun setting behind you. When you arrive it appears time has stood still on your vineyard and it is not quite what you had expected. But there's nothing that a little bit of hard work can't fix. Can you realize a dream you never knew you had? Can you make Tuscany your new home?"
 thumbnail: /public/images/reviews/viticulture/viticulture-essential-edition-a-solo-review.jpg
 social_image: /public/images/reviews/viticulture/social.jpg

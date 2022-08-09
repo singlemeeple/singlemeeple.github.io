@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wingspan - A Solo Review
+title: Wingspan
 description: "Birds. That sounds like a very niche theme for a board game. Only a handful of
 people would be into that, right? Wrong! Wingspan is ranked as the 20th best game 
 on Board Game Geek and has conquered the hearts of many, many board games since

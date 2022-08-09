@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viticulture: Tuscany Essential Edition - A Solo Review"
+title: "Viticulture: Tuscany Essential Edition"
 description: "Over the years you've expanded your vineyard as much as possible. Now it's time to spread your influence to the neighboring regions, make use of specialized workers with unique skills and explore the ideas a friendly carpenter has for new buildings. You've realized your dream, but can you dream even bigger?"
 thumbnail: /public/images/reviews/tuscany/tuscany-essential-edition-a-solo-review.jpg
 social_image: /public/images/reviews/tuscany/social.jpg

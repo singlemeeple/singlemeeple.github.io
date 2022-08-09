@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viticulture: Visit from the Rhine Valley - A Solo Review"
+title: "Viticulture: Visit from the Rhine Valley"
 description: "After running your vineyard for a few years you're starting to make a bit of a name for yourself. This attracts new visitors during summer and winter. These people are especially interested in the process of making wine. Can you make them happy, and, more importantly, can they in turn help you improve your vineyard even more?"
 thumbnail: /public/images/reviews/viticulture-visit-from-the-rhine-valley/viticulture-visit-from-the-rhine-valley-a-solo-review.jpg
 social_image: /public/images/reviews/viticulture-visit-from-the-rhine-valley/social.jpg

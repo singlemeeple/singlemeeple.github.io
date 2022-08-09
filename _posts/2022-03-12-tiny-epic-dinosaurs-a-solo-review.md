@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tiny Epic Dinosaurs - A Solo Review
+title: Tiny Epic Dinosaurs
 description: "Imagine a future where humans and dinosaurs can live side by side. What would that future look like? A Compsognatus as a pet? Maybe. Gallimimus races? Potentially. People making money by breeding dinosaurs and selling them off to the highest bidders to use in their theme parks? You bet! This would be a very lucrative business and you want a piece of that dino cake. Will your ranch outclass your competitors and get the most contracts? Only one way to find out!"
 thumbnail: /public/images/reviews/tiny-epic-dinosaurs/tiny-epic-dinosaurs-a-solo-review.jpg
 social_image: /public/images/reviews/tiny-epic-dinosaurs/social.jpg

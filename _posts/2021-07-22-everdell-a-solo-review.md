@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everdell - A Solo Review
+title: Everdell
 description: "Long ago, adventurer Corrin Evertail discovered a charming valley and named it
 Everdell. Since then the place has been a thriving civilization of forest critters.
 The time has come to expand into new territories and establish new cities. Can you

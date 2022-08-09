@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viscounts of the West Kingdom - A Solo Review
+title: Viscounts of the West Kingdom
 description: "The people are starting to lose faith in the king ever since his actions caused the kingdom to slowly collapse into poverty. As one of his trusted viscounts, you might go down with the king in case a shift in power ever occurs. You can't let that happen now, can you? You want to gain favor with the people in case someone else takes over the reigns, but you also want to keep showing loyalty to the king in case he manages to stay in power after all. Will you succeed in preparing for whatever comes?"
 thumbnail: /public/images/reviews/viscounts-of-the-west-kingdom/viscounts-of-the-west-kingdom-a-solo-review.jpg
 social_image: /public/images/reviews/viscounts-of-the-west-kingdom/social.jpg
