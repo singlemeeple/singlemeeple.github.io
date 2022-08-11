@@ -5,7 +5,7 @@ description: "In the category of very aptly named games, I present to you Messin
 thumbnail: /public/images/reviews/messina-1347/messina-1347-a-solo-review.jpg
 social_image: /public/images/reviews/messina-1347/social.jpg
 category: review
-instagram: 
+instagram: https://www.instagram.com/p/ChG4E6qs7gW/
 score: 6
 ---
 
