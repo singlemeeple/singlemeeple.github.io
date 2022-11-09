@@ -5,7 +5,7 @@ description: "Just as you want to take a first sip of your ale, a man stumbles i
 thumbnail: /public/images/reviews/tiny-epic-dungeons/tiny-epic-dungeons-a-solo-review.jpg
 social_image: /public/images/reviews/tiny-epic-dungeons/social.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/CftXv-Fr_vH/
 score: 7
 ---
 
