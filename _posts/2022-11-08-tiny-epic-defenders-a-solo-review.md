@@ -5,7 +5,7 @@ description: "There's never a dull moment in Aughmoore. You've barely returned f
 thumbnail: /public/images/reviews/tiny-epic-defenders/tiny-epic-defenders-a-solo-review.jpg
 social_image: /public/images/reviews/tiny-epic-defenders/social.jpg
 category: review
-instagram:
+instagram: https://www.instagram.com/p/CkxP3YotHiD/
 score: 6
 ---
 
