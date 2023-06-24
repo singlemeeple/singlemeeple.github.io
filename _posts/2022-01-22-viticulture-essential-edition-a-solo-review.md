@@ -6,6 +6,7 @@ thumbnail: /public/images/reviews/viticulture/viticulture-essential-edition-a-so
 social_image: /public/images/reviews/viticulture/social.jpg
 category: review
 instagram: https://www.instagram.com/p/CZCdxb8sHeT/
+bgg: https://boardgamegeek.com/thread/2799931/not-lot-whine-about-solo-review
 score: 7
 ---
 

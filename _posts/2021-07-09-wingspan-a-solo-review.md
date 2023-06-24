@@ -8,6 +8,7 @@ its release in 2019. What's up with that?"
 thumbnail: /public/images/reviews/wingspan/wingspan-a-solo-review.jpg
 category: review
 instagram: https://www.instagram.com/p/CRIv2GhrIEG/
+bgg: https://boardgamegeek.com/thread/2690248/wingspan-solo-review
 score: 8
 ---
 

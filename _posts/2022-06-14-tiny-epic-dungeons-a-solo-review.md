@@ -6,6 +6,7 @@ thumbnail: /public/images/reviews/tiny-epic-dungeons/tiny-epic-dungeons-a-solo-r
 social_image: /public/images/reviews/tiny-epic-dungeons/social.jpg
 category: review
 instagram: https://www.instagram.com/p/CftXv-Fr_vH/
+bgg: https://boardgamegeek.com/thread/2899505/crawling-through-dungeon-your-own-solo-review
 score: 7
 ---
 

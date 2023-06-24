@@ -6,6 +6,7 @@ thumbnail: /public/images/reviews/cascadia/cascadia-a-solo-review.jpg
 social_image: /public/images/reviews/cascadia/social.jpg
 category: review
 instagram: https://www.instagram.com/p/CWvpyDAMYgj/
+bgg: https://boardgamegeek.com/thread/2765387/cascadia-solo-review
 score: 7
 ---
 

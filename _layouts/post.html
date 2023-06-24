@@ -33,13 +33,20 @@ layout: default
 </div>
 {% endif %}
 
-{% if page.instagram %}
+{% if page.instagram or page.bgg %}
 <div class="comments">
   <h2>Comments</h2>
   <p>
     I'm sorry, I don't support comments on my website. If you want to discuss
     the game or my review, feel free comment on
-    <a href="{{ page.instagram }}" target="_blank" title="{{ page.title }} on Instagram">this dedicated Instagram post</a>.
+    {% if page.instagram and page.bgg %}
+      <a href="{{ page.instagram }}" target="_blank" title="{{ page.title }} on Instagram">this dedicated Instagram post</a>
+       or <a href="{{ page.bgg }}" target="_blank" title="{{page.title}} on BGG">my review on BGG</a>.
+    {% elsif page.instagram %}
+      <a href="{{ page.instagram }}" target="_blank" title="{{ page.title }} on Instagram">this dedicated Instagram post</a>.
+    {% elsif page.bgg %}
+      <a href="{{ page.bgg }}" target="_blank" title="{{page.title}} on BGG">my review on BGG</a>.
+    {% endif %}
   </p>
 </div>
 {% endif %}

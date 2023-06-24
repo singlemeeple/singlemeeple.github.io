@@ -6,6 +6,7 @@ thumbnail: /public/images/reviews/tuscany/tuscany-essential-edition-a-solo-revie
 social_image: /public/images/reviews/tuscany/social.jpg
 category: review
 instagram: https://www.instagram.com/p/CZSJKuYrQB8/
+bgg: https://boardgamegeek.com/thread/2803422/what-does-tuscany-add-solo-player-solo-review
 score: 8
 ---
 

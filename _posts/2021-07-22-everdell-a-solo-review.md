@@ -8,6 +8,7 @@ help the lovely creatures build a new place to live before the year is over?"
 thumbnail: /public/images/reviews/everdell/everdell-a-solo-review.jpg
 category: review
 instagram: https://www.instagram.com/p/CRocdGTLdDK/
+bgg: https://boardgamegeek.com/thread/2696836/everdell-solo-review
 score: 7
 ---
 

@@ -6,6 +6,7 @@ thumbnail: /public/images/reviews/terraformingmars/terraforming-mars-a-solo-revi
 social_image: /public/images/reviews/terraformingmars/social.jpg
 category: review
 instagram: https://www.instagram.com/p/CT5GJJqsWlj/
+bgg: https://boardgamegeek.com/thread/2726657/terraforming-mars-solo-review
 score: 5
 ---
 

@@ -5,7 +5,8 @@ description: "Spoiler free review! Ancient China, Xia Dynasty. The regularly flo
 thumbnail: /public/images/reviews/legacy-of-yu/legacy-of-yu-a-solo-review.jpg
 social_image: /public/images/reviews/legacy-of-yu/social.jpg
 category: review
-instagram: 
+instagram: https://www.instagram.com/p/CtYLiBlNlvz/
+bgg: https://boardgamegeek.com/thread/3098147/my-thoughts-after-finishing-campaign-spoiler-free
 score: 8
 ---
 

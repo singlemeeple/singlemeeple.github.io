@@ -6,6 +6,7 @@ thumbnail: /public/images/reviews/tiny-epic-dinosaurs/tiny-epic-dinosaurs-a-solo
 social_image: /public/images/reviews/tiny-epic-dinosaurs/social.jpg
 category: review
 instagram: https://www.instagram.com/p/CbADhH6MwdA/
+bgg: https://boardgamegeek.com/thread/2829924/soloing-tiny-epic-dinosaurs-tiny-epic-lesson-humil
 score: 6
 ---
 

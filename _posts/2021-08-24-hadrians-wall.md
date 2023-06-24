@@ -5,6 +5,7 @@ description: "You're one of the Roman generals tasked with overseeing the constr
 thumbnail: /public/images/reviews/hadrianswall/hadrians-wall-a-solo-review.jpg
 category: review
 instagram: https://www.instagram.com/p/CS_ZeRbscGP/
+bgg: https://boardgamegeek.com/thread/2715014/hadrians-wall-solo-review
 score: 8
 ---
 

@@ -6,6 +6,7 @@ thumbnail: /public/images/reviews/tiny-epic-defenders/tiny-epic-defenders-a-solo
 social_image: /public/images/reviews/tiny-epic-defenders/social.jpg
 category: review
 instagram: https://www.instagram.com/p/CkxP3YotHiD/
+bgg: https://boardgamegeek.com/thread/2968858/can-defending-realm-be-one-man-job-solo-review
 score: 6
 ---
 

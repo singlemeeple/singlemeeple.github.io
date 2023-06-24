@@ -6,6 +6,7 @@ thumbnail: /public/images/reviews/viscounts-of-the-west-kingdom/viscounts-of-the
 social_image: /public/images/reviews/viscounts-of-the-west-kingdom/social.jpg
 category: review
 instagram: https://www.instagram.com/p/CdpcQiFMbfd/
+bgg: https://boardgamegeek.com/thread/2869506/viscounts-west-kingdom-solo-review
 score: 9
 ---
 

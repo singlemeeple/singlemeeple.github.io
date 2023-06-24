@@ -9,6 +9,7 @@ know what hit them."
 thumbnail: /public/images/reviews/raidersofscythia/raidersofscythia-a-solo-review.jpg
 category: review
 instagram: https://www.instagram.com/p/CR3BFOcLdzC/
+bgg: https://boardgamegeek.com/thread/2702720/raiders-scythia-solo-review
 score: 9
 ---
 
