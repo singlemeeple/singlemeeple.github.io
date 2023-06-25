@@ -17,7 +17,7 @@ I've always been a big fan of video games like The Settlers 3 and Knights and Me
 
 **Name:** Hamlet: The Village Building Game  
 **Designer:**  David Chircop  
-**Solo designers:** Dávid Turczi and David Digby  
+**Solo designers:** Nick Shaw and Dávid Turczi  
 **Publisher:** Mighty Boards  
 **Game type:** tile placement, network and route building, pick-up and deliver
 
@@ -141,7 +141,7 @@ While all the tiles and components look great on their own, the way they get lum
 
 {% include image.html image="/public/images/reviews/hamlet/crowded.jpg" caption="Text and icons on tiles are already pretty small. With all these wooden components covering things up, it doesn't get any easier to get an overview or read things." %}
 
-A final thing I didn't like, and an important one in a solo game, is the solo mode. Every action Botric can take comes with some sort of priority queue or decision tree. This might just be me, but I am super bad at remembering things like this, so _in every game I played_, I was checking the rulebook _for every one of Botric's turns_. You know what the worst part is? Most of these priority queues can be summarized as "make the smartest move Botric can do here". So you either memorize all the decision trees, or you just come up with the best move for Botric. Which means you might as well play two handed, right? I do think Hamlet is not an easy game to make a solo mode for. The game is very open and sandboxy so you can't have a solo mode that has you just flip a card and execute a simple action without having to think about it. I absolutely appreciate all the effort Dávid Turczi and David Digby have put into the design of the solo mode, but unfortunately, it isn't a solo mode I enjoy.
+A final thing I didn't like, and an important one in a solo game, is the solo mode. Every action Botric can take comes with some sort of priority queue or decision tree. This might just be me, but I am super bad at remembering things like this, so _in every game I played_, I was checking the rulebook _for every one of Botric's turns_. You know what the worst part is? Most of these priority queues can be summarized as "make the smartest move Botric can do here". So you either memorize all the decision trees, or you just come up with the best move for Botric. Which means you might as well play two handed, right? I do think Hamlet is not an easy game to make a solo mode for. The game is very open and sandboxy so you can't have a solo mode that has you just flip a card and execute a simple action without having to think about it. I absolutely appreciate all the effort Nick Shaw and Dávid Turczi have put into the design of the solo mode, but unfortunately, it isn't a solo mode I enjoy.
 
 Just like the game itself, my review ended up being longer than I thought it would be and while, on paper, this game has a lot that I should like, it unfortunately fell rather flat for me pretty quickly, much like the 3D church.
 
