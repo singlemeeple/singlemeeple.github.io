@@ -1,6 +1,6 @@
 <div class="post-image">
     <figure>
-        <img src="{{ include.image }}" alt="{{ include.caption }}" />
+        <img src="{{ include.image }}" alt="{{ include.caption }}" class="{% if include.border %}border{% endif %}" />
         <figcaption>{{ include.caption }}</figcaption>
     </figure>
 </div>

@@ -39,6 +39,11 @@ div.post-images {
     margin: 0;
     display: inline;
   }
+
+  div.post-images figure img.border, div.post-image figure img.border {
+    outline: 1px solid #ddd;
+    outline-offset: -1px;
+  }
   
   div.post-images figure figcaption, div.post-image figure figcaption {
     text-align: center;
