@@ -72,9 +72,9 @@ To set up a game against Botric you can pretty much follow the regular setup for
 
 For Botric's setup you place his action board, shuffle the 5 action tokens and place them in a random order underneath the action board. The action board has a small cutout in the top-right. That's where you need to place his favor token with two coins on top.
 
-Next you need to determine Botric's player color. Suppose you're playing green and Botric is playing yellow. You take two of Botric's yellow wooden discs, three blue ones and four red ones. One of the red discs goes on the action board above the first action token, one of the blue ones goes above the second action token and one of the yellow ones above the third action tokens. The remaining discs (three red, two blue and one yellow) go into a bag or a cup.
+Next you need to determine Botric's player color. Suppose you're playing red and Botric is playing yellow. You take two of Botric's yellow wooden discs, three green ones and four blue ones. One of the blue discs goes on the action board above the first action token, one of the green ones goes above the second action token and one of the yellow ones above the third action tokens. The remaining discs (three blue, two green and one yellow) go into a bag or a cup.
 
-{% include image.html image="/public/images/reviews/hamlet/botric.jpg" caption="I forgot to take a picture of the solo components and I don't own the game anymore (spoiler), so here's a picture from the solo rulebook." border="1" %}
+{% include image.html image="/public/images/reviews/hamlet/botric.jpg" caption="Botric's area is ready." %}
 
 Botric, the AI opponent in Hamlet, functions almost like a human player, with a few exceptions: 
 
@@ -94,10 +94,10 @@ If a villager did not take any of the three priority actions, you move on to the
 
 I'll quickly go over the 5 action tokens below the action board (from left to right based on the picture above) and explain what the action means for Botric.
 
-* **Produce.** Botric produces on the production tile with fewest materials remaining on it (that are not at their maximum), then gains 1 victory point (instead of the coin production reward).
-* **Take a blueprint.** If Botric does not already have 3 tiles in their supply, they will purchase a new blueprint tile.
 * **Refine.** Botric will activate a refinery tile connected to the road network, with space left to refine on, that has the required materials available somewhere in the village.
 * **Construct a building.** Botric constructs a building from their tile queue that they can afford to construct (only the required materials must be available in the village – Botric does not need to pay any coins!)
+* **Produce.** Botric produces on the production tile with fewest materials remaining on it (that are not at their maximum), then gains 1 victory point (instead of the coin production reward).
+* **Take a blueprint.** If Botric does not already have 3 tiles in their supply, they will purchase a new blueprint tile.
 * **Build a road.** If the required materials are available, Botric builds a road.
 
 For each of these actions you will need to make some decisions. Which production tile (quarry, farm, woodcutter, ...) does Botric choose? Which blueprint will Botric buy? Which refinery will Botric select? Which building does Botric build and where to they place it? Across which two tiles does Botric build a road? The separate solo rulebook has priority queues for each these actions to help you make the correct decision.
