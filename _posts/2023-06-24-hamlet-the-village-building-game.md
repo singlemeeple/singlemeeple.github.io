@@ -5,7 +5,8 @@ description: "I've always been a big fan of video games like The Settlers 3 and 
 thumbnail: /public/images/reviews/hamlet/hamlet-the-village-building-game-a-solo-review.jpg
 social_image: /public/images/reviews/hamlet/social.jpg
 category: review
-instagram: 
+instagram: https://www.instagram.com/p/Ct8RcJts_-i/
+bgg: https://boardgamegeek.com/thread/3106178/hamlet-town-all-your-own-solo-review
 score: 3
 ---
 
