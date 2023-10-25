@@ -21,6 +21,8 @@ You have inherited a vineyard in Tuscany. While packing your bags you're already
 **Publisher:** Stonemaier Games  
 **Game type:** worker placement
 
+{% include own_money.html %}
+
 ## What is Viticulture?
 Viticulture is a worker placement game which has you running a vineyard in Tuscany. In this game, the workers you have at your disposal are quite literally workers: they are the people you employ to do various tasks on your estate. In the game you score points by making and selling wine of various types and values. Inviting visitors during summer and winter can earn you numerous advantages, including more points. The first to reach 20 points wins. In the solo game your goal is gain more than 20 points in seven rounds with the AI sitting in your way.
 

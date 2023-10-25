@@ -21,6 +21,8 @@ Over the years you've expanded your vineyard as much as possible. Now it's time 
 **Publisher:** Stonemaier Games  
 **Game type:** worker placement
 
+{% include own_money.html %}
+
 ## What is Viticulture: Tuscany?
 Tuscany is an expansion for Viticulture. It consists of three modules you can add separately or all at once to the base game. In this review I'll cover what's new or different. If you are interested in my thoughts on Viticulture itself, you can check out my [Viticulture review]({% post_url 2022-01-22-viticulture-essential-edition-a-solo-review %}).
 

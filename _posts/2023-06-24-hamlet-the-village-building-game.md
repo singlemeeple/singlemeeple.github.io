@@ -22,6 +22,10 @@ I've always been a big fan of video games like The Settlers 3 and Knights and Me
 **Publisher:** Mighty Boards  
 **Game type:** tile placement, network and route building, pick-up and deliver
 
+<p class="message">
+    <strong>Disclaimer:</strong> I was offered a free Kickstarter pledge of this game by the publisher in return for solo coverage and a review. I still paid for VAT and shipping.
+</p>
+
 ## What is Hamlet: The Village Building Game?
 As the name might give away, Hamlet: The Village Building Game is a game in which you are building a village. You start the game with a tiny hamlet (a small village without a church) containing a few tiles, each containing a building: a church building site, a quarry, a woodcutter, a farm, a market and a town hall. By gathering materials and blueprints for more advanced buildings, you can expand the village. These new buildings can, among other things, turn raw materials (wood, wheat and stone) into refined materials (timber, brick, flour and milk) which can then be used to build even more specialized buildings, or make deliveries to the church construction site.
 

@@ -21,6 +21,8 @@ In the category of very aptly named games, I present to you Messina 1347, which 
 **Publisher:** Delicious Games  
 **Game type:** worker placement/movement
 
+{% include bought_from_publisher.html %}
+
 ## What is Messina 1347?
 In the game you play the role of one of Messina's important and wealthy families. When the plague starts to spread via the rat's fleas, you flee (hehe) the city towards your countryside estate, hoping to escape the disease. You provide shelter for other inhabitants of Messina, take care of the infected ones and fight off the plague in the city itself. If that sounds all nice and altruistic, don't be fooled. The inhabitants have to work on your countryside estate and your end goal is to make a name for yourself so you gain influence and can dominate certain districts of Messina when the epidemic is over.
 

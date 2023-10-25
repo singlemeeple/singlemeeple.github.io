@@ -20,6 +20,8 @@ After running your vineyard for a few years you're starting to make a bit of a n
 **Publisher:** Stonemaier Games  
 **Game type:** extra cards for the base game
 
+{% include own_money.html %}
+
 <p class="message">
 If you're interested you can have a look at <a href="{% post_url 2022-01-22-viticulture-essential-edition-a-solo-review %}">my review of Viticulture</a> itself. I have also done <a href="{% post_url 2022-01-28-viticulture-tuscany-essential-edition-a-solo-review %}">a review for Tuscany Essential Edition</a>, another, bigger expansion.
 </p>

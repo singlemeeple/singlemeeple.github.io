@@ -26,6 +26,8 @@ its release in 2019. What's up with that?
 **Publisher:** Stonemaier Games (999 Games, for the Dutch edition I have)  
 **Game type:** card drafting, engine building, tableau building
 
+{% include own_money.html %}
+
 ## What is Wingspan?
 In Wingspan you take up the role of a bird enthusiast trying to find and attract
 the best birds to your wildlife preserve. Birds come with abilities which can be

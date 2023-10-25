@@ -31,6 +31,8 @@ dominance? There's only one way to find out.
 **Publisher:** Garphill Games  
 **Game type:** worker placement, contracts, hand management
 
+{% include own_money.html %}
+
 ## What is Raiders of Scythia?
 In Raiders of Scythia you take up the role of a Scythian warlord. You will build
 up a crew of raiders, equip them with fierce horses and eagles, and set out to

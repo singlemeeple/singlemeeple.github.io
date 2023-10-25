@@ -22,6 +22,8 @@ You're one of the Roman generals tasked with overseeing the construction of part
 **Publisher:** Garphill Games  
 **Game type:** Flip and write
 
+{% include own_money.html %}
+
 ## What is Hadrian's Wall?
 Hadrian's Wall can be seen as an advanced flip and write game. The game consists of two big sheets of paper where you will be filling in boxes for every action you take.
 

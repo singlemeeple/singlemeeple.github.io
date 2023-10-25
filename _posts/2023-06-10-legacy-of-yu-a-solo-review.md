@@ -21,6 +21,8 @@ Ancient China, Xia Dynasty. The regularly flooding Yellow River makes this a dif
 **Publisher:** Garphill Games  
 **Game type:** worker placement, hand management, campaign game
 
+{% include own_money.html %}
+
 ## What is Legacy of Yu?
 Legacy of Yu is the third game in the Ancient Anthology series by Garphill Games—the other games being Raiders of Scythia and Hadrian's Wall—and unlike the two previous games in the series, Legacy of Yu is a solo only game.
 

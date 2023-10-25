@@ -22,6 +22,8 @@ Shawn Stankewich)
 **Publisher:** Flatout Games / Alderac Entertainment Group  
 **Game type:** drafting, tile placement, pattern building
 
+{% include own_money.html %}
+
 ## What is Cascadia?
 Cascadia consists of 85 hexagonal habitat tiles and 100 round wooden animal tokens (bears, elks, foxes, hawks and salmons). Every habitat tile is made up out of either one or two of the five different terrain types (mountains, prairies, forests, wetlands and rivers) and can hold one animal token of the one to three animal types specified on the tile itself.
 

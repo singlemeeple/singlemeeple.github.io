@@ -21,6 +21,8 @@ The people are starting to lose faith in the king ever since his actions caused 
 **Publisher:** Garphill Games  
 **Game type:** rondel, deck building, set collection, area majority
 
+{% include own_money.html %}
+
 ## What is Viscounts of the West Kingdom?
 Viscounts of the West Kingdom is the third and final game in the West Kingdom series. In the first game, Architects of the West Kingdom, we tried to impress the king and gain influence with him by helping him build up his newly appointed domain. In Paladins of the West Kingdom, the second game, we tried to secure the newly established kingdom by protecting it from attacks from outsiders; either by force or by spreading faith and converting them.
 

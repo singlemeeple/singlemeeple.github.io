@@ -26,6 +26,8 @@ help the lovely creatures build a new place to live before the year is over?
 **Publisher:** Starling Games (White Goblin Games, for the Dutch edition I have)  
 **Game type:** worker placement, card drafting, tableau building
 
+{% include own_money.html %}
+
 ## What is Everdell?
 Everdell is a mix of worker placement and tableau building where you use your workers
 to gather resources and cards. You then use those resources to play the cards into

@@ -21,6 +21,8 @@ Somewhere in the 25th century we started looking at Mars as an escape plan. Thin
 **Publisher:** FryxGames / Stronghold Games  
 **Game type:** engine building, income, tile placement
 
+{% include own_money.html %}
+
 ## What is Terraforming Mars?
 Your goal in Terraforming Mars is to increase the oxygen, temperature and water on the planet to levels that make the place habitable for humans. There are various ways to increase these three parameters, but all of them require you to spend different kinds of resources, so you'll need to build up an engine to increase your resource production as well.
 
