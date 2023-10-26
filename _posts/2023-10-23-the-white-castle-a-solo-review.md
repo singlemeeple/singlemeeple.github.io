@@ -5,8 +5,8 @@ description: "Japan, 1761. You're the leader of one of the many minor clans near
 thumbnail: /public/images/reviews/the-white-castle/the-white-castle-a-solo-review.jpg
 social_image: /public/images/reviews/the-white-castle/social.jpg
 category: review
-instagram: 
-bgg: 
+instagram: https://www.instagram.com/p/Cy2XodrrAvT/
+bgg: https://boardgamegeek.com/thread/3178154/visiting-white-castle-your-own-solo-review
 score: 5
 ---
 
