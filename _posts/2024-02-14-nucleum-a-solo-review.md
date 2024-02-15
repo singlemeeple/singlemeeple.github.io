@@ -5,8 +5,8 @@ description: "Saxony, 19th century. The recent discovery of nuclear energy has l
 thumbnail: /public/images/reviews/nucleum/nucleum-a-solo-review.jpg
 social_image: /public/images/reviews/nucleum/social.jpg
 category: review
-instagram: 
-bgg: 
+instagram: https://www.instagram.com/p/C3W6_nlNC5h/
+bgg: https://boardgamegeek.com/thread/3246820/nucleum-solo-review
 score: 8
 ---
 
