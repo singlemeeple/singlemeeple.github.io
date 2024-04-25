@@ -1,5 +1,5 @@
 # Setup
-title:               Single Meeple
+title:               Singlemeeple
 tagline:             "Board games from a solo gamer's perspective"
 description:         "Hi! I talk about and review board games from a solo gamer's perspective."
 url:                 https://www.singlemeeple.com
@@ -8,11 +8,11 @@ paginate:            5
 permalink:           /:year/:month/:day/:title/
 timezone:            Europe/Brussels
 excerpt_separator:   "<!--more-->"
-exclude:             ["docker-compose.yml", ".gitignore", "_review_template.md", "create.sh"]
+exclude:             ["docker-compose.yml", ".gitignore", "_review_template.md", "create.sh", "Gemfile", "Gemfile.lock"]
 
 # About/contact
 author:
-  name:              Single Meeple
+  name:              Kristof (Singlemeeple)
   url:               https://instagram.com/singlemeeple/
   email:             info@singlemeeple.com
 
