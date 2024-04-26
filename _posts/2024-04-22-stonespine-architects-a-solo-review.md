@@ -5,8 +5,8 @@ description: "Building a dungeon is serious business. So serious in fact, that a
 thumbnail: /public/images/reviews/stonespine-architects/stonespine-architects-a-solo-review.jpg
 social_image: /public/images/reviews/stonespine-architects/social.jpg
 category: review
-instagram: 
-bgg: 
+instagram: https://www.instagram.com/p/C6NhrSAr8Xf/
+bgg: https://boardgamegeek.com/thread/3290239/stonespine-architects-a-solo-review
 score: 8
 ---
 
