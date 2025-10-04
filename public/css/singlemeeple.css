@@ -1,5 +1,10 @@
 .masthead {
-  background-color: #fafafa;
+  background-color: #412141;
+  border-bottom: 1px solid #201020;
+}
+
+.masthead small {
+  color:#a090a0;
 }
 
 h3.scoring small {
@@ -59,11 +64,27 @@ div.post-images {
   background-color: #412141;
 }
 .theme-base-singlemeeple .container a,
-.theme-base-singlemeeple .sidebar-toggle,
 .theme-base-singlemeeple .related-posts li a:hover {
   color: #412141;
   text-decoration:underline;
   text-decoration-color: #d19d34;
+}
+
+.sidebar-toggle {
+  background-color: #311931;
+  color: #a090a0;
+}
+
+.sidebar-toggle:active,
+#sidebar-checkbox:focus ~ .sidebar-toggle,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  color: #fff;
+  background-color: #311931;
+}
+
+.theme-base-singlemeeple h3.masthead-title a {
+  color: #d19d34;
+  text-decoration: none;
 }
 
 .theme-base-singlemeeple h3.masthead-title img {
