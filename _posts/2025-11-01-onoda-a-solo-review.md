@@ -5,8 +5,8 @@ description: "This game attempts to explore the effects the 30 years Hiroo Onoda
 thumbnail: /public/images/reviews/onoda/onoda-a-solo-review.jpg
 social_image: /public/images/reviews/onoda/social.jpg
 category: review
-instagram: 
-bgg: 
+instagram: https://www.instagram.com/p/DQgpdHjDH0X/
+bgg: https://boardgamegeek.com/thread/3602917/how-does-this-tragic-and-sometimes-dark-narrative
 score: 5
 ---
 
