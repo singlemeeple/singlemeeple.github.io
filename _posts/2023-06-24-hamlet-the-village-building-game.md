@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: "Hamlet: The Village Building Game"
 description: "I've always been a big fan of video games like The Settlers 3 and Knights and Merchants. In those games you had to build up a village and get a basic economy up and running. Build a woodcutter's hut so someone could chop down trees. Build a sawmill to turn the logs from the woodcutter into planks. Use the planks to construct more buildings. Watching your villagers transport goods from here to there was so satisfying. When Mighty Boards announced they were creating a board game that looked like it would recreate the feeling of those old video games, they immediately had my interest. Did they succeed? Read on and find out."
 thumbnail: /public/images/reviews/hamlet/hamlet-the-village-building-game-a-solo-review.jpg

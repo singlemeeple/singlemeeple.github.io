@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: Messina 1347
 description: "In the category of very aptly named games, I present to you Messina 1347, which takes place in—you guessed it—Messina in—yup, you guessed it again—1347, at the start of the outbreak of the black death plague epidemic. The disease came to Europe via merchant ships bringing not only luxury goods, but also rats infested with infected fleas. Do you have what it takes to survive this horrible period and secure the city?"
 thumbnail: /public/images/reviews/messina-1347/messina-1347-a-solo-review.jpg

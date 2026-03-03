@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: "The White Castle"
 description: "Japan, 1761. You're the leader of one of the many minor clans near Himeji Castle. To secure the future of your clan, you will need to make sure you gain influence with Daimyo Sakai Tadazumi. More influence than the other clans. Of course they won't just give you free reign; they want exactly the same. Will you succeed and lead your clan to victory?"
 thumbnail: /public/images/reviews/the-white-castle/the-white-castle-a-solo-review.jpg

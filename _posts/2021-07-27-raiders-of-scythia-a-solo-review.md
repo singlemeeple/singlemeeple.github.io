@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: Raiders of Scythia
 description: "Look at those Cimmerians, Assyrians, Persians and Greeks with all their lands
 and their power and their wealth. Look at them underestimating the fierce and

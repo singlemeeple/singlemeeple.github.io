@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: Wingspan
 description: "Birds. That sounds like a very niche theme for a board game. Only a handful of
 people would be into that, right? Wrong! Wingspan is ranked as the 20th best game 

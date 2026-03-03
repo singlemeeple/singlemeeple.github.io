@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: Everdell
 description: "Long ago, adventurer Corrin Evertail discovered a charming valley and named it
 Everdell. Since then the place has been a thriving civilization of forest critters.

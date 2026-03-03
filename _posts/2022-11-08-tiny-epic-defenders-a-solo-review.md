@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: Tiny Epic Defenders
 description: "There's never a dull moment in Aughmoore. You've barely returned from cleaning out a few dungeons and all the regions around the capital city are being attacked by harpies, giant wasps and dragons. Unfortunately there's only two of you to defend the realm. Will you succeed?"
 thumbnail: /public/images/reviews/tiny-epic-defenders/tiny-epic-defenders-a-solo-review.jpg

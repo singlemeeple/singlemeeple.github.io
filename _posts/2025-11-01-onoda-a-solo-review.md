@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: "Onoda"
 description: "This game attempts to explore the effects the 30 years Hiroo Onoda refused to believe World War II had ended must have had on his physical and mental health. How does this tragic and sometimes dark narrative translate to a board game? Let's find out!"
 thumbnail: /public/images/reviews/onoda/onoda-a-solo-review.jpg

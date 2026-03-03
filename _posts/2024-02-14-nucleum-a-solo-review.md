@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: "Nucleum"
 description: "Saxony, 19th century. The recent discovery of nuclear energy has led to the rise of uranium powered power plants called Nucleums. The booming industry is demanding more and more energy. Will you become the most successful industrialist by building out a network of railways to transport uranium and coal to power plants and electricity to the buildings waiting to be energized?"
 thumbnail: /public/images/reviews/nucleum/nucleum-a-solo-review.jpg

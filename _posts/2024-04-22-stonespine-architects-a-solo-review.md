@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: "Stonespine Architects"
 description: "Building a dungeon is serious business. So serious in fact, that after spending years studying for it, you need to prove your mastery in a final test: building a dungeon in the Stonespine Mountains. Do you have what it takes to please Master Hortgully and earn your degree as a dungeon architect?"
 thumbnail: /public/images/reviews/stonespine-architects/stonespine-architects-a-solo-review.jpg

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: GAME - A Solo Review
 description: ""
 thumbnail: /public/images/reviews/game/game.png

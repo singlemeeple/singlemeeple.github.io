@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: Terraforming Mars
 description: "Somewhere in the 25th century we started looking at Mars as an escape plan. Things aren't going well with Earth and a few powerful and rich corporations have taken it on themselves to turn Mars into a place where we'll be able to live. You're the leader of one of those corporations and you've promised you can get the job done in 14 generations. Will you succeed?"
 thumbnail: /public/images/reviews/terraformingmars/terraforming-mars-a-solo-review.jpg

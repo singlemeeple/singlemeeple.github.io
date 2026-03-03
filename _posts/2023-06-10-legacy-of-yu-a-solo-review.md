@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: legacy
 title: Legacy of Yu
 description: "Spoiler free review! Ancient China, Xia Dynasty. The regularly flooding Yellow River makes this a difficult time and place to live. Emperor Yao has ordered you to come with a solution to these floods. Oh, and could you please deal with the barbarians as well? Are you pragmatic and flexible enough to cope with the dynamic circumstances and go with the... flow?"
 thumbnail: /public/images/reviews/legacy-of-yu/legacy-of-yu-a-solo-review.jpg
