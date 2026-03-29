@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }} - A Solo Review</h1>
+  <span class="post-date">{{ page.date | date_to_string }}, reviewed by Kristof</span>
+  {{ content }}
+</div>
+
+{% if page.instagram or page.bgg %}
+<div class="comments">
+  <h2>Comments</h2>
+  <p>
+    I'm sorry, I don't support comments on my website. If you want to discuss
+    the game or my review, feel free comment on
+    {% if page.instagram and page.bgg %}
+      <a href="{{ page.instagram }}" target="_blank" title="{{ page.title }} on Instagram">this dedicated Instagram post</a>
+       or <a href="{{ page.bgg }}" target="_blank" title="{{page.title}} on BGG">my review on BGG</a>.
+    {% elsif page.instagram %}
+      <a href="{{ page.instagram }}" target="_blank" title="{{ page.title }} on Instagram">this dedicated Instagram post</a>.
+    {% elsif page.bgg %}
+      <a href="{{ page.bgg }}" target="_blank" title="{{page.title}} on BGG">my review on BGG</a>.
+    {% endif %}
+  </p>
+</div>
+{% endif %}
+
+{% if site.related_posts.size >= 1 %}
+<div class="related">
+  <h2>More recent solo reviews</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} - A Solo Review">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

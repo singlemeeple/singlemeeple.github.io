@@ -12,9 +12,14 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | date_to_string }}, reviewed by Kristof</span>
 
-    {{ post.excerpt }}
+    {% if post.layout == "legacy" %}
+      {{ post.excerpt }}
+    {% else %}
+      <p><a href="{{ post.url | absolute_url }}" title="{{ post.title }} - A Solo Review"><img src="{{ post.thumbnail }}" alt="{{ post.title}} - A Solo Review" /></a></p>
+      <p>{{ post.description }}</p>
+    {% endif %}
 
     <span class="post-read-more"><a href="{{ post.url | absolute_url }}">Continue reading...</a></span>
   </div>
