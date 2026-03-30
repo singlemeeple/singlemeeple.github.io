@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Assyria: Second Edition"
-description: "A nice mix of tactical and strategical decisions with excellent low-overhead automa."
+description: "A nice mix of tactical and strategical decisions with an excellent low-overhead automa."
 thumbnail: /public/images/reviews/assyria/assyria-a-solo-review.jpg
 social_image: /public/images/reviews/assyria/social.jpg
 category: review
-instagram: 
-bgg: 
+instagram: https://www.instagram.com/p/DWfv3MqDFE0/
+bgg: https://boardgamegeek.com/thread/3685121/assyria-second-edition-a-solo-review
 ---
 
 ## In a hurry? Here's my quick take!
